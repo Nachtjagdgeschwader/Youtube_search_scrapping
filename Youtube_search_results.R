@@ -14,7 +14,7 @@ remDr$open()
 URLs <-
   read.csv("C:/*/InitialURLsYt.csv",
            header = F)$V1
-# Here you provide the path to csv file wiht URLs to search queries results
+# Here you provide the path to csv file with URLs to search queries results
 # with all filters you want (may be copied from YouTube interface once and 
 # then just populated on all keywords).
 # Here a sample InitialURLsYt.csv provided
